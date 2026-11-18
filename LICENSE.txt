@@ -1,0 +1,30 @@
+COMMERCIAL DEVELOPER TEMPLATE LICENSE
+
+Product: Apex Gym Website Template
+Version: 1.0.0
+Copyright (c) 2026. All rights reserved.
+
+1. GRANT OF LICENSE
+By purchasing or downloading this template, you are granted a non-exclusive, perpetual, worldwide license to use, customize, and modify the source code under the following terms:
+
+PERMITTED USES:
+- You may use this template to develop an unlimited number of personal or business websites for yourself.
+- You may use this template to develop commercial websites for your direct paying clients.
+- You may freely modify, refactor, and combine the code with other libraries to suit your specific project requirements.
+
+RESTRICTED USES:
+- You may NOT resell, redistribute, sub-license, bundle, share, or publish the source code or any modified version of this template on any digital marketplace, theme store, code directory, or public file-sharing network.
+- You may NOT create a competing website builder, software-as-a-service (SaaS) template engine, or generator product using this template.
+- You may NOT represent the underlying template code framework as your own original commercial product for resale.
+
+2. ASSET LICENSING & DEMO PHOTOGRAPHY NOTICE
+- SOURCE CODE & SOFTWARE: The source code, React components, CSS stylesheets, and build configurations are licensed under this Commercial Developer License.
+- THIRD-PARTY OPEN SOURCE LIBRARIES:
+  - React, React DOM, React Router DOM, Vite, Motion, Tailwind CSS, PostCSS, Autoprefixer are licensed under the MIT License.
+  - Lucide React icons are licensed under the ISC License.
+  - Typography: Google Fonts (Bebas Neue and Inter) are licensed under the SIL Open Font License 1.1.
+- DEMONSTRATION PHOTOGRAPHY & ARTWORK:
+  The 8 demonstration images located in "public/images/" (including hero banners and facility photos) are provided strictly as temporary visual placeholders to illustrate layout, card alignment, and responsive breakpoints. Commercial redistribution rights for these photographs CANNOT be verified, granted, or transferred. Commercial rights to these images are NOT included in this purchase. Buyers MUST replace all sample imagery with their own client photography or separately licensed stock photos before launching any production website.
+
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE AND ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
